@@ -1,0 +1,303 @@
+{
+  "title": "What a UK size 12 measures at 27 retailers",
+  "url": "https://www.renderedfits.com/uk-size-12-measurements/",
+  "publisher": "Rendered Fits",
+  "published": "2026-11-12",
+  "sizeChartsRead": "2026-11-12",
+  "licence": "CC BY 4.0 for the calculated ranges and middle values. Retailer figures belong to each retailer; see the page for each source link.",
+  "citation": "Rendered Fits (2026). What a UK size 12 measures at 27 retailers. https://www.renderedfits.com/uk-size-12-measurements/",
+  "retailersCompared": 27,
+  "retailersWithOneFigurePerSize": 26,
+  "retailers": [
+    {
+      "name": "Albaray",
+      "source": "https://www.albaray.co.uk/pages/size-guide"
+    },
+    {
+      "name": "AllSaints",
+      "source": "https://www.allsaints.com/sizeguide.html"
+    },
+    {
+      "name": "Boden",
+      "source": "https://boden.com/pages/sizing-and-care"
+    },
+    {
+      "name": "Bonmarché",
+      "source": "https://www.bonmarche.co.uk/sizeguide/sizeguide.html"
+    },
+    {
+      "name": "Boohoo",
+      "source": "https://www.boohoo.com/page/size-guide.html"
+    },
+    {
+      "name": "Dorothy Perkins",
+      "source": "https://www.dorothyperkins.com/pages/informational/size-guide"
+    },
+    {
+      "name": "FatFace",
+      "source": "https://www.fatface.com/size-guide"
+    },
+    {
+      "name": "Hobbs",
+      "source": "https://www.hobbs.com/size-guide.html"
+    },
+    {
+      "name": "Jigsaw",
+      "source": "https://www.jigsaw-online.com/pages/size-guide"
+    },
+    {
+      "name": "Kaleidoscope",
+      "source": "https://www.kaleidoscope.co.uk/web/main/sizeguide-default.asp"
+    },
+    {
+      "name": "Marks & Spencer",
+      "source": "https://www.marksandspencer.com/us/sizeguides/sizeguidewomens/sizeguidewomens-dresses.html"
+    },
+    {
+      "name": "ME+EM",
+      "source": "https://www.meandem.com/size-guide"
+    },
+    {
+      "name": "Monsoon",
+      "source": "https://www.monsoon.co.uk/size-guide.html"
+    },
+    {
+      "name": "New Look",
+      "source": "https://help-uk.newlook.com/hc/en-gb/articles/360015270672-Core-Women-s-sizes"
+    },
+    {
+      "name": "Nobody's Child",
+      "source": "https://www.nobodyschild.com/pages/size-guide"
+    },
+    {
+      "name": "Oliver Bonas",
+      "source": "https://www.oliverbonas.com/size-guide"
+    },
+    {
+      "name": "Omnes",
+      "source": "https://www.omnes.com/pages/size-guide"
+    },
+    {
+      "name": "Phase Eight",
+      "source": "https://www.phase-eight.com/size-guide.html"
+    },
+    {
+      "name": "PrettyLittleThing",
+      "source": "https://www.prettylittlething.com/size-guide"
+    },
+    {
+      "name": "Reiss",
+      "source": "https://www.reiss.com/size-guide"
+    },
+    {
+      "name": "Rixo",
+      "source": "https://rixolondon.com/pages/size-guide-modal"
+    },
+    {
+      "name": "Seasalt Cornwall",
+      "source": "https://www.seasaltcornwall.com/size-guide"
+    },
+    {
+      "name": "Sosandar",
+      "source": "https://www.sosandar.com/size-guide"
+    },
+    {
+      "name": "Sugarhill Brighton",
+      "source": "https://sugarhill-brighton.reamaze.com/kb/sizing/international-size-guide"
+    },
+    {
+      "name": "Thought",
+      "source": "https://wearethought.com/size-guides"
+    },
+    {
+      "name": "Warehouse",
+      "source": "https://www.warehousefashion.com/pages/informational/size-guide"
+    },
+    {
+      "name": "White Stuff",
+      "source": "https://www.whitestuff.com/size-guide"
+    }
+  ],
+  "method": "Body measurements for bust, waist and hips read from each retailer's public women's size guide. Inches converted at 2.54 cm. Nothing estimated. Retailers that publish a range per size are excluded from the statistics.",
+  "limits": [
+    "Not a random sample or a market-share ranking",
+    "Body measurements, not garment measurements",
+    "Hip measuring point differs slightly between retailers",
+    "Dated snapshot; charts change"
+  ],
+  "bySize": [
+    {
+      "ukSize": 8,
+      "charts": 26,
+      "bust": {
+        "minCm": 82,
+        "maxCm": 87,
+        "spreadCm": 5,
+        "medianCm": 84
+      },
+      "waist": {
+        "minCm": 64,
+        "maxCm": 71,
+        "spreadCm": 7,
+        "medianCm": 66
+      },
+      "hips": {
+        "minCm": 89,
+        "maxCm": 98,
+        "spreadCm": 9,
+        "medianCm": 92
+      }
+    },
+    {
+      "ukSize": 10,
+      "charts": 26,
+      "bust": {
+        "minCm": 87,
+        "maxCm": 92,
+        "spreadCm": 5,
+        "medianCm": 89
+      },
+      "waist": {
+        "minCm": 69,
+        "maxCm": 75,
+        "spreadCm": 6,
+        "medianCm": 71
+      },
+      "hips": {
+        "minCm": 94,
+        "maxCm": 103,
+        "spreadCm": 9,
+        "medianCm": 97
+      }
+    },
+    {
+      "ukSize": 12,
+      "charts": 26,
+      "bust": {
+        "minCm": 92,
+        "maxCm": 97,
+        "spreadCm": 5,
+        "medianCm": 94
+      },
+      "waist": {
+        "minCm": 74,
+        "maxCm": 80,
+        "spreadCm": 6,
+        "medianCm": 76
+      },
+      "hips": {
+        "minCm": 99,
+        "maxCm": 108,
+        "spreadCm": 9,
+        "medianCm": 102
+      }
+    },
+    {
+      "ukSize": 14,
+      "charts": 26,
+      "bust": {
+        "minCm": 97,
+        "maxCm": 102,
+        "spreadCm": 5,
+        "medianCm": 99
+      },
+      "waist": {
+        "minCm": 78.7,
+        "maxCm": 85,
+        "spreadCm": 6.3,
+        "medianCm": 81
+      },
+      "hips": {
+        "minCm": 104,
+        "maxCm": 113,
+        "spreadCm": 9,
+        "medianCm": 107
+      }
+    },
+    {
+      "ukSize": 16,
+      "charts": 26,
+      "bust": {
+        "minCm": 102,
+        "maxCm": 108,
+        "spreadCm": 6,
+        "medianCm": 104.3
+      },
+      "waist": {
+        "minCm": 83.8,
+        "maxCm": 90,
+        "spreadCm": 6.2,
+        "medianCm": 87
+      },
+      "hips": {
+        "minCm": 109,
+        "maxCm": 118,
+        "spreadCm": 9,
+        "medianCm": 113
+      }
+    },
+    {
+      "ukSize": 18,
+      "charts": 25,
+      "bust": {
+        "minCm": 108,
+        "maxCm": 115,
+        "spreadCm": 7,
+        "medianCm": 110
+      },
+      "waist": {
+        "minCm": 88.9,
+        "maxCm": 97,
+        "spreadCm": 8.1,
+        "medianCm": 93
+      },
+      "hips": {
+        "minCm": 115,
+        "maxCm": 123,
+        "spreadCm": 8,
+        "medianCm": 118.1
+      }
+    }
+  ],
+  "size12": {
+    "bust": {
+      "minCm": 92,
+      "maxCm": 97,
+      "spreadCm": 5,
+      "medianCm": 94,
+      "lowest": [
+        "Marks & Spencer",
+        "Monsoon",
+        "Bonmarché"
+      ],
+      "highest": [
+        "Oliver Bonas"
+      ]
+    },
+    "waist": {
+      "minCm": 74,
+      "maxCm": 80,
+      "spreadCm": 6,
+      "medianCm": 76,
+      "lowest": [
+        "Monsoon"
+      ],
+      "highest": [
+        "Oliver Bonas"
+      ]
+    },
+    "hips": {
+      "minCm": 99,
+      "maxCm": 108,
+      "spreadCm": 9,
+      "medianCm": 102,
+      "lowest": [
+        "Bonmarché",
+        "Kaleidoscope"
+      ],
+      "highest": [
+        "Rixo"
+      ]
+    }
+  }
+}
