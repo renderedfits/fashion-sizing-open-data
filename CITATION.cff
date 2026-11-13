@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Fashion sizing open data (Rendered Fits)"
+message: "If you use these data, please cite the dataset you used by its DOI (see README)."
+type: dataset
+authors:
+  - name: "Rendered Fits"
+    website: "https://www.renderedfits.com/"
+license: CC-BY-4.0
+url: "https://www.renderedfits.com/open-data/"
+repository-code: "https://github.com/renderedfits/fashion-sizing-open-data"
+keywords:
+  - fashion ecommerce
+  - clothing sizes
+  - size chart
+  - Shopify
+  - online returns
+  - sizing
+date-released: 2026-11-13
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24165866
+    description: "Shopify Size Chart Report 2026"
+  - type: doi
+    value: 10.5281/zenodo.24165871
+    description: "Sizing information in Shopify fashion product descriptions, by category (October 2026)"
+  - type: doi
+    value: 10.5281/zenodo.24165873
+    description: "AI Sizing Study 2026 (anonymised)"
+  - type: doi
+    value: 10.5281/zenodo.24165875
+    description: "UK women's size 12 body measurements across 26 retailer size charts (November 2026)"
