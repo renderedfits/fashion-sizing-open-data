@@ -1,0 +1,12 @@
+category,sized_products,stores_with_3plus,pct_with_garment_measurements,pct_with_sizing_advice,pct_with_model_size_or_height,pct_with_fit_description,pct_with_fabric_composition,pct_with_html_table,median_sizes_offered,pct_letter_sizes,pct_numeric_sizes
+Dresses,27216,297,15.5,9.9,19.2,7.5,25.9,4.8,7.0,23.8,42.9
+Shirts and tops,15363,350,10.3,10.9,16.8,19.0,34.7,5.6,6,61.2,11.3
+Trousers and skirts,9734,330,15.3,10.1,18.0,15.0,33.8,5.6,6.0,45.6,30.1
+Coats and jackets,7071,283,10.3,8.2,13.4,18.5,30.0,6.1,6,46.2,20.8
+Knitwear,5243,214,11.5,9.5,16.8,21.3,39.1,5.1,5,71.7,3.2
+Jeans,4022,150,18.4,12.0,20.4,21.5,42.2,8.9,9.0,16.8,69.1
+Shoes,2083,101,3.3,10.5,0.5,2.6,6.4,2.1,9,0.9,72.1
+Suits and tailoring,2043,52,13.7,2.4,4.9,17.4,19.7,4.0,7,18.5,18.5
+Lingerie,825,54,6.8,15.9,12.8,5.1,24.3,2.1,5,71.6,6.5
+Swimwear,511,30,6.1,11.6,19.1,8.8,56.7,2.0,5,64.6,9.6
+All categories,74111,459,11.8,9.7,15.4,13.5,26.8,5.4,,,
