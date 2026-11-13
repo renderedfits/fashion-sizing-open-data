@@ -1,0 +1,171 @@
+{
+  "title": "Shopify Size Chart Report 2026: what 829 fashion stores tell shoppers about size and fit",
+  "canonical_url": "https://www.renderedfits.com/size-chart-report-2026/",
+  "dataset_id": "https://www.renderedfits.com/size-chart-report-2026/#dataset",
+  "publisher": "Rendered Fits",
+  "published": "2026-09-29",
+  "reviewed": "2026-10-01",
+  "data_collected": "2026-09-24",
+  "licence": "https://creativecommons.org/licenses/by/4.0/",
+  "citation": "Rendered Fits (2026). Shopify Size Chart Report 2026: what 829 fashion stores tell shoppers about size and fit. https://www.renderedfits.com/size-chart-report-2026/",
+  "sample": {
+    "domains_considered": 1186,
+    "readable_product_feeds": 903,
+    "stores_with_clothing_sizes": 829,
+    "sized_products": 107138,
+    "stores_with_readable_chart": 262
+  },
+  "method_url": "https://www.renderedfits.com/size-chart-report-2026/#method",
+  "method": "Automated scan on 24 September 2026 of public Shopify product feeds (up to 250 recent products per store), product pages and linked size guides. Raw HTML; no JavaScript execution, login or orders.",
+  "limitations": [
+    "Non-random sample from the Rendered Fits market research list; not a Shopify-wide estimate.",
+    "A chart not found in raw HTML may still be available to shoppers after a click or JavaScript.",
+    "Pattern matching can miss unusual fit-note or model-information wording.",
+    "One-day descriptive snapshot; no measured effect on sales, physical fit or returns.",
+    "Percentages use the stated store or product denominator; do not combine overlapping measures. Values are rounded; do not derive exact counts from them."
+  ],
+  "metrics": [
+    {
+      "metric": "Size chart readable as text on the page",
+      "value": 31.6,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "No chart problem found by the scanner",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "No size chart found",
+      "value": 27.7,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "No chart on product pages, guide pages or descriptions",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Size chart is an image",
+      "value": 27.1,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "Chart published as a picture",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Size chart loads only through a sizing app",
+      "value": 7.7,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "Chart injected by an app script",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Size chart loads after the page",
+      "value": 4.8,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "Guide or button present, no readable chart in the HTML",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Same size labelled different ways",
+      "value": 23.3,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "e.g. \"S\", \"Small\" and \"SM\" across products",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Sizes sold but missing from the chart",
+      "value": 9,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "A size on sale that the guide does not cover",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Readable charts in one unit only (cm or inches)",
+      "value": 47.7,
+      "unit": "percent",
+      "unit_of_analysis": "Store with readable chart",
+      "note": "n = 262",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Fit notes on fewer than 30% of sized products",
+      "value": 78.9,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "\"true to size\", \"relaxed fit\", \"size up\" and similar",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "No fit notes on any sized product",
+      "value": 27.6,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Sized products that say how they fit",
+      "value": 20.3,
+      "unit": "percent",
+      "unit_of_analysis": "Product",
+      "note": "Weighted across 107,138 sized products",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Model's size or height never given",
+      "value": 73.8,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Sized products that give the model's size or height",
+      "value": 10.3,
+      "unit": "percent",
+      "unit_of_analysis": "Product",
+      "note": "Weighted across 107,138 sized products",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "Fit notes on 30%+ and model info on 20%+ of products",
+      "value": 7.2,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "Both basics covered",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    },
+    {
+      "metric": "A sizing app detected",
+      "value": 10.5,
+      "unit": "percent",
+      "unit_of_analysis": "Store",
+      "note": "Kiwi Sizing 67 stores, True Fit 10, others 11",
+      "data_collected": "2026-09-24",
+      "source_url": "https://www.renderedfits.com/size-chart-report-2026/#data"
+    }
+  ],
+  "downloads": [
+    "https://www.renderedfits.com/size-chart-report-2026/size-chart-report-2026.csv",
+    "https://www.renderedfits.com/size-chart-report-2026/size-chart-accessibility.svg",
+    "https://www.renderedfits.com/size-chart-report-2026/size-chart-accessibility.png",
+    "https://www.renderedfits.com/size-chart-report-2026/product-fit-information.svg",
+    "https://www.renderedfits.com/size-chart-report-2026/product-fit-information.png"
+  ]
+}
